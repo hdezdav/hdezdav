@@ -45,6 +45,7 @@ I am a **Computer Science Student** with a passion for the shadows of technology
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 
 ###### Backend & Frameworks:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
@@ -55,6 +56,7 @@ I am a **Computer Science Student** with a passion for the shadows of technology
 
 ###### Security & Research:
 ![Google](https://img.shields.io/badge/Google%20Dorks-4285F4?style=for-the-badge&logo=google&logoColor=white)&nbsp;
+![SQL Injection](https://img.shields.io/badge/SQL%20Injection-CC2927?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ###### Development Tools:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
