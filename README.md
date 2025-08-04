@@ -1,12 +1,12 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/hdezdav">hdezdav</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/hdezdav">Dav</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
 <img align="right" width=200px alt="Developer" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-I am a **Computer Science Student** with a passion for the shadows of technology. Exploring the depths of code, databases, and digital mysteries. Sometimes you'll find me crafting web applications, other times diving into the darker corners of cybersecurity research.
+I am a **Systems Engineering Student** with a passion for the shadows of technology. Sometimes you'll find me crafting web applications, other times diving into the darker corners of cybersecurity research.
 
 - 🌑 Currently diving deeper into ...
   - *Django & Python ecosystems*
