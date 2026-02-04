@@ -15,14 +15,11 @@ I am a **Systems Engineering Student** with a passion for the shadows of technol
 - 🎯 Always hunting for new challenges and knowledge.
 - 💬 Ask me about anything... if you dare.
 - 🕵️ When not coding, I explore digital forensics and OSINT techniques.
-- 📧 Encrypted communications: <a href="mailto:hdezdav.dev@proton.me">hdezdav.dev@proton.me</a>
 <br>
 
 <!-- Profile Trophies -->
 <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=hdezdav&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
+
 </div>     
 
 <!-- Social Links -->
@@ -82,7 +79,6 @@ I am a **Systems Engineering Student** with a passion for the shadows of technol
       <div align="center">
         <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Coding">
         <p><strong>Currently working on exciting projects!</strong></p>
-        <p>Building my portfolio with <strong>Java</strong>, <strong>Python</strong>, and <strong>Django</strong> applications.</p>
       </div>
     </td>
   </tr>
@@ -90,29 +86,5 @@ I am a **Systems Engineering Student** with a passion for the shadows of technol
 <br>
 
 <!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hdezdav&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hdezdav&theme=nightowl&hide_border=false" alt="hdezdav streak" />
-</td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hdezdav&theme=nightowl&hide_border=false&langs_count=10"/>
-</td>
-</tr>
-</table>
-</p>
-<br>
 
 <!-- Activity Graph -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<br>
-<div align="center">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50">
-    <h3>🔥 Keep Coding, Keep Growing! 🔥</h3>
-</div>
-<br>
