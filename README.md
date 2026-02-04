@@ -25,7 +25,6 @@ I am a **Systems Engineering Student** with a passion for the shadows of technol
 <!-- Social Links -->
 <div align="center">
   <a href="mailto:hdezdav@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/hdezdav"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
 </div>
 
 <br>
