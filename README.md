@@ -9,11 +9,13 @@
 <br>
 
 <!-- Profile Trophies -->
+
 <div align="center">
   <!-- Add trophies here if needed -->
 </div>
 
 <!-- Social Links -->
+
 <div align="center">
   <a href="https://davidhdez.com">
     <img src="https://img.shields.io/badge/Portfolio-davidhdez.com-8B5CF6?style=for-the-badge&logo=react&logoColor=white" />
@@ -28,47 +30,51 @@
 
 <br>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&nbsp; ***Skills***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">  ***Skills*** <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
 ###### Programming Languages:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge\&logo=typescript\&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E) 
+![Solidity](https://img.shields.io/badge/solidity-363636.svg?style=for-the-badge\&logo=solidity\&logoColor=white) 
 
 <img align="right" width="310px" alt="Coding" src="https://c.tenor.com/mR9W1eqnLiYAAAAd/tenor.gif"/>
 
 ###### Frontend Development:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)&nbsp;
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
+
+![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge\&logo=react\&logoColor=61DAFB) 
+![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge\&logo=vuedotjs\&logoColor=white) 
+![Astro](https://img.shields.io/badge/astro-BC52EE.svg?style=for-the-badge\&logo=astro\&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/tailwind_css-06B6D4.svg?style=for-the-badge\&logo=tailwindcss\&logoColor=white) 
 
 ###### Backend & Frameworks:
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
-###### Database Management:
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge\&logo=django\&logoColor=white) 
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge\&logo=nodedotjs\&logoColor=white) 
 
-###### Security & Research:
-![Google](https://img.shields.io/badge/Google%20Dorks-4285F4?style=for-the-badge&logo=google&logoColor=white)&nbsp;
-![SQL Injection](https://img.shields.io/badge/SQL%20Injection-CC2927?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+###### Databases & Cloud:
+
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge\&logo=postgresql\&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge\&logo=mongodb\&logoColor=white) 
+![AWS](https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge\&logo=amazonaws\&logoColor=white) 
+
+###### Web3 & AI:
+
+![Ethereum](https://img.shields.io/badge/ethereum-3C3C3D.svg?style=for-the-badge\&logo=ethereum\&logoColor=white) 
+![Web3](https://img.shields.io/badge/web3-F16822.svg?style=for-the-badge) 
+![RAG](https://img.shields.io/badge/RAG-8B5CF6.svg?style=for-the-badge) 
 
 ###### Development Tools:
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
-###### Development Environments:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge\&logo=docker\&logoColor=white) 
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge\&logo=git\&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black) 
 
 <br>
 <br>
